@@ -7,7 +7,8 @@ You can [download FIJI here](https://fiji.sc)
 ### A great reference for this assignment is [Introduction to Bioimage Analysis](https://bioimagebook.github.io/index.html) by Pete Bankhead.  
 
 #### *Task 1:*
-Answer the following questions about the [Phase contrast](image_files/PhaseContrast.tif) and [Differential interference contrast](image_files/DifferentialInterference.tif) images:
+Answer the following questions about the [Phase contrast](image_files/PhaseContrast.tif) and [Differential interference contrast](image_files/DifferentialInterference.tif) images
+
 Q1) What is the maximum intensity value in the [Differential interference contrast](image_files/DifferentialInterference.tif) file? 
 A1) Put your answer here.  
 
